@@ -16,7 +16,7 @@ export const questions: Question[] = [
   {
     questionNumber: 1,
     reference: "BAFS600C1Ch1-1",
-    text: "Which of the following are the roles of business in Hong Kong economy?\n(1) It promotes economic growth.\n(2) It provides job opportunities.\n(3) It improves people’s living standard.",
+    text: "Which of the following are the roles of business in Hong Kong economy?\n\n(1) It promotes economic growth.\n(2) It provides job opportunities.\n(3) It improves people’s living standard.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -29,7 +29,7 @@ export const questions: Question[] = [
   {
     questionNumber: 2,
     reference: "BAFS600C1Ch1-2",
-    text: "Which of the following is/are correct about the business environment in Hong Kong?\n(1) The contribution of secondary industry to Hong Kong economy is the largest.\n(2) China is the largest trading partner of Hong Kong.\n(3) The government employs the majority of Hong Kong’s workforce.",
+    text: "Which of the following is/are correct about the business environment in Hong Kong?\n\n(1) The contribution of secondary industry to Hong Kong economy is the largest.\n(2) China is the largest trading partner of Hong Kong.\n(3) The government employs the majority of Hong Kong’s workforce.",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -42,7 +42,7 @@ export const questions: Question[] = [
   {
     questionNumber: 3,
     reference: "BAFS600C1Ch1-3",
-    text: "Which of the following descriptions about the economic and business relationships between Hong Kong and the Mainland are correct?\n(1) The Mainland is the main origin and destination of Hong Kong's re-exports of goods.\n(2) The purpose of Closer Economic Partnership Arrangement (CEPA) is to help Mainland enterprises raise capital in Hong Kong.\n(3) The Mainland is one of the major sources of foreign direct investment in Hong Kong.",
+    text: "Which of the following descriptions about the economic and business relationships between Hong Kong and the Mainland are correct?\n\n(1) The Mainland is the main origin and destination of Hong Kong's re-exports of goods.\n(2) The purpose of Closer Economic Partnership Arrangement (CEPA) is to help Mainland enterprises raise capital in Hong Kong.\n(3) The Mainland is one of the major sources of foreign direct investment in Hong Kong.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -81,7 +81,7 @@ export const questions: Question[] = [
   {
     questionNumber: 6,
     reference: "BAFS600C1Ch1-6",
-    text: "Which of the following are the reasons for foreign companies to set up their headquarters in Hong Kong?\n(1) Hong Kong promotes free trade.\n(2) Hong Kong adopts a simple taxation system.\n(3) The market competition is keen in Hong Kong.",
+    text: "Which of the following are the reasons for foreign companies to set up their headquarters in Hong Kong?\n\n(1) Hong Kong promotes free trade.\n(2) Hong Kong adopts a simple taxation system.\n(3) The market competition is keen in Hong Kong.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -94,7 +94,7 @@ export const questions: Question[] = [
   {
     questionNumber: 7,
     reference: "BAFS600C1Ch1-7",
-    text: "Victor is planning to relocate his factory from Hong Kong to Mainland China. Which of the following factors should he be aware of?\n(1) the tightness of the environmental regulations in China\n(2) the number of tourists from the mainland travelling to Hong Kong\n(3) cultural differences between Mainland China and Hong Kong",
+    text: "Victor is planning to relocate his factory from Hong Kong to Mainland China. Which of the following factors should he be aware of?\n\n(1) the tightness of the environmental regulations in China\n(2) the number of tourists from the mainland travelling to Hong Kong\n(3) cultural differences between Mainland China and Hong Kong",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -120,7 +120,7 @@ export const questions: Question[] = [
   {
     questionNumber: 9,
     reference: "BAFS600C1Ch1-9",
-    text: "Which of the following statements is/are correct?\n(1) Hong Kong imports a variety of goods and services from the Mainland.\n(2) \"Closer Economic Partnership Arrangement\" (CEPA) has stopped functioning since 2012.\n(3) China is a member of Asia-Pacific Economic Cooperation (APEC), while Hong Kong is not.",
+    text: "Which of the following statements is/are correct?\n\n(1) Hong Kong imports a variety of goods and services from the Mainland.\n(2) \"Closer Economic Partnership Arrangement\" (CEPA) has stopped functioning since 2012.\n(3) China is a member of Asia-Pacific Economic Cooperation (APEC), while Hong Kong is not.",
     options: {
       A: "(1) only",
       B: "(1) and (3) only",
@@ -133,7 +133,7 @@ export const questions: Question[] = [
   {
     questionNumber: 10,
     reference: "BAFS600C1Ch1-10",
-    text: "Which of the following is/are correct classification(s) of factors affecting business decisions?\n(1) physical: reliability of telecommunication network\n(2) social: languages of customers\n(3) economic: wage level",
+    text: "Which of the following is/are correct classification(s) of factors affecting business decisions?\n\n(1) physical: reliability of telecommunication network\n(2) social: languages of customers\n(3) economic: wage level",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -146,7 +146,7 @@ export const questions: Question[] = [
   {
     questionNumber: 11,
     reference: "BAFS600C1Ch1-11",
-    text: "Lulu is an owner of a boutique selling clothes. Which of the following is/are the example(s) of economic factors that might affect Lulu's plan of extending her clothes retailing business in Hong Kong?\n(1) the inflation rate\n(2) the legislation of standard working hour\n(3) the tightness of regulations on the import of foreign labour",
+    text: "Lulu is an owner of a boutique selling clothes. Which of the following is/are the example(s) of economic factors that might affect Lulu's plan of extending her clothes retailing business in Hong Kong?\n\n(1) the inflation rate\n(2) the legislation of standard working hour\n(3) the tightness of regulations on the import of foreign labour",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -172,7 +172,7 @@ export const questions: Question[] = [
   {
     questionNumber: 13,
     reference: "BAFS600C1Ch1-13",
-    text: "Which of the following descriptions about the recent development of Hong Kong economy is/are correct?\n(1) There are a lot of capital flows between the Mainland and Hong Kong.\n(2) Hong Kong serves as an offshore Renminbi business centre of China.\n(3) After signing Closer Economic Partnership Arrangement (CEPA), Hong Kong left the Asia-Pacific Economic Cooperation (APEC), since China can then represent Hong Kong to take part in the organisation.",
+    text: "Which of the following descriptions about the recent development of Hong Kong economy is/are correct?\n\n(1) There are a lot of capital flows between the Mainland and Hong Kong.\n(2) Hong Kong serves as an offshore Renminbi business centre of China.\n(3) After signing Closer Economic Partnership Arrangement (CEPA), Hong Kong left the Asia-Pacific Economic Cooperation (APEC), since China can then represent Hong Kong to take part in the organisation.",
     options: {
       A: "(1) only",
       B: "(1) and (2) only",
@@ -185,7 +185,7 @@ export const questions: Question[] = [
   {
     questionNumber: 14,
     reference: "BAFS600C1Ch1-14",
-    text: "Which of the following functions of the business sector is/are demonstrated by Janna's business (selling clothes manufactured in Mainland in HK boutiques)?\n(1) generating revenues\n(2) providing goods to the locals of both Hong Kong and the Mainland\n(3) supporting China's business sector",
+    text: "Which of the following functions of the business sector is/are demonstrated by Janna's business (selling clothes manufactured in Mainland in HK boutiques)?\n\n(1) generating revenues\n(2) providing goods to the locals of both Hong Kong and the Mainland\n(3) supporting China's business sector",
     options: {
       A: "(1) only",
       B: "(1) and (2) only",
@@ -198,7 +198,7 @@ export const questions: Question[] = [
   {
     questionNumber: 15,
     reference: "BAFS600C1Ch1-15",
-    text: "Which of the following factors should Janna consider when making the decision (setting up a factory in Mainland)?\n(1) economic factor\n(2) legal factor\n(3) physical factor",
+    text: "Which of the following factors should Janna consider when making the decision (setting up a factory in Mainland)?\n\n(1) economic factor\n(2) legal factor\n(3) physical factor",
     options: {
       A: "(1) only",
       B: "(1) and (3) only",
@@ -224,7 +224,7 @@ export const questions: Question[] = [
   {
     questionNumber: 17,
     reference: "BAFS600C1Ch1-17",
-    text: "Which of the following statements about the business relationship between Hong Kong and China is/are correct?\n(1) Hong Kong is the largest trading partner of the Mainland.\n(2) Many enterprises in the Mainland raise capital in Hong Kong through issuing shares in Hong Kong's stock market.\n(3) Hong Kong's direct investment in the Mainland is insignificant.",
+    text: "Which of the following statements about the business relationship between Hong Kong and China is/are correct?\n\n(1) Hong Kong is the largest trading partner of the Mainland.\n(2) Many enterprises in the Mainland raise capital in Hong Kong through issuing shares in Hong Kong's stock market.\n(3) Hong Kong's direct investment in the Mainland is insignificant.",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -237,7 +237,7 @@ export const questions: Question[] = [
   {
     questionNumber: 18,
     reference: "BAFS600C1Ch1-18",
-    text: "Peter is the owner of a factory which manufactures toys in Guangdong. Which of the following are the economic factors affecting his business?\n(1) the price level\n(2) the tightness of labour laws and environmental regulations\n(3) the salary level in neighbouring provinces",
+    text: "Peter is the owner of a factory which manufactures toys in Guangdong. Which of the following are the economic factors affecting his business?\n\n(1) the price level\n(2) the tightness of labour laws and environmental regulations\n(3) the salary level in neighbouring provinces",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -250,7 +250,7 @@ export const questions: Question[] = [
   {
     questionNumber: 19,
     reference: "BAFS600C1Ch1-19",
-    text: "Which of the following is/are the correct description(s) about the business relationship between Hong Kong and the Mainland?\n(1) Due to the WTO arrangement, there is a closer link between Hong Kong and the Mainland.\n(2) After the adoption of the \"Open Door Policy\" by the Chinese government, the share of tertiary sector of Hong Kong has grown significantly.\n(3) After the signing of CEPA, entrepreneurs from Hong Kong can get subsidies from the Chinese government.",
+    text: "Which of the following is/are the correct description(s) about the business relationship between Hong Kong and the Mainland?\n\n(1) Due to the WTO arrangement, there is a closer link between Hong Kong and the Mainland.\n(2) After the adoption of the \"Open Door Policy\" by the Chinese government, the share of tertiary sector of Hong Kong has grown significantly.\n(3) After the signing of CEPA, entrepreneurs from Hong Kong can get subsidies from the Chinese government.",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -263,7 +263,7 @@ export const questions: Question[] = [
   {
     questionNumber: 20,
     reference: "BAFS600C1Ch1-20",
-    text: "Which of the following are correct descriptions about globalisation?\n(1) Countries are more interdependent than before.\n(2) There is little capital flow between countries under globalisation.\n(3) There is a growth in multinational trade.",
+    text: "Which of the following are correct descriptions about globalisation?\n\n(1) Countries are more interdependent than before.\n(2) There is little capital flow between countries under globalisation.\n(3) There is a growth in multinational trade.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -276,7 +276,7 @@ export const questions: Question[] = [
   {
     questionNumber: 21,
     reference: "BAFS600C1Ch1-21",
-    text: "Which of the following impacts of globalisation on business is/are demonstrated by FaFa Limited (sourcing coffee from Brazil, processing in India, 200 branches globally)?\n(1) an increasing popularity of global sourcing and outsourcing\n(2) a fiercer competition among companies\n(3) more international capital flows",
+    text: "Which of the following impacts of globalisation on business is/are demonstrated by FaFa Limited (sourcing coffee from Brazil, processing in India, 200 branches globally)?\n\n(1) an increasing popularity of global sourcing and outsourcing\n(2) a fiercer competition among companies\n(3) more international capital flows",
     options: {
       A: "(1) only",
       B: "(1) and (3) only",
@@ -289,7 +289,7 @@ export const questions: Question[] = [
   {
     questionNumber: 22,
     reference: "BAFS600C1Ch1-22",
-    text: "Which of the following are cultural factors affecting Fiona's decision on the company's expansion?\n(1) the number of public holidays set by the Chinese government\n(2) whether the majority of the public like drinking latte\n(3) whether drinking coffee is popular among the Chinese elderly",
+    text: "Which of the following are cultural factors affecting Fiona's decision on the company's expansion?\n\n(1) the number of public holidays set by the Chinese government\n(2) whether the majority of the public like drinking latte\n(3) whether drinking coffee is popular among the Chinese elderly",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -328,7 +328,7 @@ export const questions: Question[] = [
   {
     questionNumber: 25,
     reference: "BAFS600C1Ch1-25",
-    text: "Which of the following are the impacts of globalisation brought to the business sector?\n(1) It increases global sourcing.\n(2) Companies recognise the differences in tastes and preferences of people in different nations.\n(3) It encourages the transfer of technology applied in production to developing countries.",
+    text: "Which of the following are the impacts of globalisation brought to the business sector?\n\n(1) It increases global sourcing.\n(2) Companies recognise the differences in tastes and preferences of people in different nations.\n(3) It encourages the transfer of technology applied in production to developing countries.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -341,7 +341,7 @@ export const questions: Question[] = [
   {
     questionNumber: 26,
     reference: "BAFS600C1Ch1-26",
-    text: "Which of the following are the negative impacts brought by globalisation?\n(1) exhaustion of resources\n(2) deprivation of labour rights\n(3) economic instability",
+    text: "Which of the following are the negative impacts brought by globalisation?\n\n(1) exhaustion of resources\n(2) deprivation of labour rights\n(3) economic instability",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -354,7 +354,7 @@ export const questions: Question[] = [
   {
     questionNumber: 27,
     reference: "BAFS600C1Ch1-27",
-    text: "Which of the following are true regarding the importance of the business sector in Hong Kong?\n(1) It generates government revenue.\n(2) It helps obtain foreign exchange to pay for imports.\n(3) It provides employment opportunities.",
+    text: "Which of the following are true regarding the importance of the business sector in Hong Kong?\n\n(1) It generates government revenue.\n(2) It helps obtain foreign exchange to pay for imports.\n(3) It provides employment opportunities.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -367,7 +367,7 @@ export const questions: Question[] = [
   {
     questionNumber: 28,
     reference: "BAFS600C1Ch1-28",
-    text: "Which of the following is/are the purpose(s) of the Closer Economic Partnership Arrangement (CEPA)?\n(1) reduce trade barriers between Hong Kong and China\n(2) facilitate free cross-border capital flow between Hong Kong and China\n(3) maintain a free flow of information between Hong Kong and China",
+    text: "Which of the following is/are the purpose(s) of the Closer Economic Partnership Arrangement (CEPA)?\n\n(1) reduce trade barriers between Hong Kong and China\n(2) facilitate free cross-border capital flow between Hong Kong and China\n(3) maintain a free flow of information between Hong Kong and China",
     options: {
       A: "(1) only",
       B: "(3) only",
@@ -380,7 +380,7 @@ export const questions: Question[] = [
   {
     questionNumber: 29,
     reference: "BAFS600C1Ch1-29",
-    text: "Which of the following is/are correct classification(s) of factors affecting business decisions?\n(1) technological: reliability of transportation system\n(2) economic: cross-border telephone charges\n(3) legal: licensing regulations",
+    text: "Which of the following is/are correct classification(s) of factors affecting business decisions?\n\n(1) technological: reliability of transportation system\n(2) economic: cross-border telephone charges\n(3) legal: licensing regulations",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -393,7 +393,7 @@ export const questions: Question[] = [
   {
     questionNumber: 30,
     reference: "BAFS600C1Ch1-30",
-    text: "Which of the following are impacts of globalisation?\n(1) It intensifies global competition.\n(2) It encourages technology transfer.\n(3) It reduces production costs of goods.",
+    text: "Which of the following are impacts of globalisation?\n\n(1) It intensifies global competition.\n(2) It encourages technology transfer.\n(3) It reduces production costs of goods.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -432,7 +432,7 @@ export const questions: Question[] = [
   {
     questionNumber: 33,
     reference: "BAFS600C1Ch1-33",
-    text: "Which of the following are the examples of economic factors that may affect the operations of the international business in foreign markets?\n(1) the value of currencies in some foreign countries compared with their neighbours\n(2) whether high inflation exists in some foreign countries\n(3) geographical dispersion of the overseas markets",
+    text: "Which of the following are the examples of economic factors that may affect the operations of the international business in foreign markets?\n\n(1) the value of currencies in some foreign countries compared with their neighbours\n(2) whether high inflation exists in some foreign countries\n(3) geographical dispersion of the overseas markets",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -484,7 +484,7 @@ export const questions: Question[] = [
   {
     questionNumber: 37,
     reference: "BAFS600C1Ch1-37",
-    text: "Which of the following is/are the feature(s) of the Hong Kong economy?\n(1) Companies adopt the laissez-faire leadership style.\n(2) The workforce is attractive due to rising wages.\n(3) The economy is easily affected by global economic conditions.",
+    text: "Which of the following is/are the feature(s) of the Hong Kong economy?\n\n(1) Companies adopt the laissez-faire leadership style.\n(2) The workforce is attractive due to rising wages.\n(3) The economy is easily affected by global economic conditions.",
     options: {
       A: "(2) only",
       B: "(3) only",
@@ -497,7 +497,7 @@ export const questions: Question[] = [
   {
     questionNumber: 38,
     reference: "BAFS600C1Ch1-38",
-    text: "Which of the following is/are the correct description(s) about Asia-Pacific Economic Cooperation (APEC)?\n(1) It establishes obligatory treaty commitment.\n(2) It settles trade disputes among countries in Asia-Pacific region.\n(3) It facilitates trading and investments between members.",
+    text: "Which of the following is/are the correct description(s) about Asia-Pacific Economic Cooperation (APEC)?\n\n(1) It establishes obligatory treaty commitment.\n(2) It settles trade disputes among countries in Asia-Pacific region.\n(3) It facilitates trading and investments between members.",
     options: {
       A: "(2) only",
       B: "(3) only",
@@ -510,7 +510,7 @@ export const questions: Question[] = [
   {
     questionNumber: 39,
     reference: "BAFS600C1Ch1-39",
-    text: "Which of the following is/are NOT the contribution(s) of World Trade Organization?\n(1) removing all trade barriers in the world successfully\n(2) offering monetary support to countries developing trade\n(3) developing the infrastructure in developing countries to facilitate their trade",
+    text: "Which of the following is/are NOT the contribution(s) of World Trade Organization?\n\n(1) removing all trade barriers in the world successfully\n(2) offering monetary support to countries developing trade\n(3) developing the infrastructure in developing countries to facilitate their trade",
     options: {
       A: "(2) only",
       B: "(3) only",
