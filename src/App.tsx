@@ -293,7 +293,7 @@ export default function App() {
           </div>
           <h1 className="text-4xl font-black text-zinc-900 mb-4">BM MC Revision</h1>
           <p className="text-zinc-500 mb-10 leading-relaxed">
-            Welcome to the revision quiz of C1 Ch1: Hong Kong Business Environment.
+            Welcome to the revision quiz of<br />C1 Ch1: Hong Kong Business Environment.
           </p>
 
           <div className="space-y-6 text-left mb-10">
